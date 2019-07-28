@@ -1,4 +1,5 @@
 @import "bootstrap";
+@import url('https://fonts.googleapis.com/css?family=Teko&display=swap');
 .clear {
   clear: both;
 }
@@ -40,4 +41,12 @@ header{
 }
 hr {
   clear: both;
+}
+h1{
+  font-family: font-family: 'Teko', sans-serif;
+  
+}
+h2 {
+  font-family: font-family: 'Teko', sans-serif;
+  
 }
