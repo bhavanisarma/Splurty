@@ -1,5 +1,5 @@
 @import "bootstrap";
-@import url('https://fonts.googleapis.com/css?family=Teko&display=swap');
+
 .clear {
   clear: both;
 }
@@ -34,6 +34,8 @@
   color:black;
   font-size:25px;
   border-bottom: 1px solid #5DA369;
+  font-family:'beepoextralight', sans-serif;
+  font-weight:bold;
 
 }
 header{
@@ -43,10 +45,12 @@ hr {
   clear: both;
 }
 h1{
-  font-family: font-family: 'Teko', sans-serif;
+  font-family: 'fontspring_demo_-_beepobold', sans-serif;
+  font-weight:bold;
+  font-size:48px;
   
 }
 h2 {
-  font-family: font-family: 'Teko', sans-serif;
+  font-family: 'beepoextralight', sans-serif;
   
 }
